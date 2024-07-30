@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.top{
+    padding-top: 40px;
+    padding-bottom: 96px;
+}
+
+
+.top__menu{
+    margin-top: 11px;
+    margin-bottom: 12px;
+}
+
+.nav{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.top__content{
+    margin-top: 84px;
+    margin-bottom: 162px;
+
+}
+
+
+.title{
+    margin-bottom: 17px;
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.sub__title{
+    color: rgb(136, 136, 136);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.top__button{
+    margin-top: 37px;
+}
+
+.button__start{
+    border-radius: 50px;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.2);
+    background: rgb(242, 88, 34);
+}
+
+.text__button{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+
+
+.text{
+    color: rgb(170, 170, 170);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: -1px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.top__logos{
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
+
